@@ -1,0 +1,24 @@
+2024-08-17 13:03:22,849 [INFO] - Server started on 0.0.0.0:12345
+2024-08-17 13:04:42,439 [ERROR] - An error occurred: [WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+2024-08-17 13:05:04,217 [INFO] - Server started on 0.0.0.0:12345
+2024-08-17 13:06:32,122 [INFO] - Server started on 0.0.0.0:12345
+2024-08-17 13:07:24,565 [INFO] - Accepted connection from ('127.0.0.1', 60649)
+2024-08-17 13:07:30,190 [INFO] - Accepted connection from ('127.0.0.1', 60650)
+2024-08-17 13:12:32,261 [INFO] - Exit /exit
+2024-08-17 13:12:32,262 [INFO] - The user left: Shiva
+2024-08-17 13:12:42,989 [INFO] - Exit /exit
+2024-08-17 13:12:42,990 [INFO] - The user left: Ram
+2024-08-17 13:14:45,232 [INFO] - Server started on 0.0.0.0:12345
+2024-08-17 13:15:06,429 [INFO] - Accepted connection from ('127.0.0.1', 60714)
+2024-08-17 13:15:06,430 [INFO] - New client connected: ('127.0.0.1', 60714)
+2024-08-17 13:15:13,176 [INFO] - Accepted connection from ('127.0.0.1', 60716)
+2024-08-17 13:15:13,177 [INFO] - New client connected: ('127.0.0.1', 60716)
+2024-08-17 13:16:53,281 [INFO] - The user left: shiva
+2024-08-17 13:16:53,543 [INFO] - The user left: ram
+2024-08-17 13:17:04,286 [INFO] - Server started on 0.0.0.0:12345
+2024-08-17 13:18:00,974 [INFO] - Accepted connection from ('127.0.0.1', 60745)
+2024-08-17 13:18:05,741 [INFO] - Accepted connection from ('127.0.0.1', 60746)
+2024-08-17 13:20:31,540 [INFO] - Exit /exit
+2024-08-17 13:20:31,541 [INFO] - The user left: user2
+2024-08-17 13:20:32,373 [INFO] - Exit /exit
+2024-08-17 13:20:32,373 [INFO] - The user left: user
